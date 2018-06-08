@@ -14,8 +14,7 @@ You are allowed to change pom.xml to add or remove any dependency or plugin.
 ###  To-Submit
 Submit (1) Statement of Work, (2) Explanation on Utilized Design Patterns, and (3) UML Class Diagram as a **single _.pdf_** file and (4) Implementation codes (without the target folder and IDE-specific files) to your github classroom repository
 
-### Important Dates
-**Deadline:**  March 12, 2018.
+
 
 ### Notes
 Please read this document very carefully. 
