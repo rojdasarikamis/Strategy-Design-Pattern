@@ -1,0 +1,12 @@
+permissions\Foot_No_Strike.class
+Main.class
+permissions\Hand_No_Strike.class
+players\Goal_Keeper.class
+behaviours\Hand_Holding_Behaviour.class
+permissions\Foot_Strike.class
+players\Midfielder.class
+permissions\Hand_Strike.class
+player\player1.class
+players\Pivot.class
+behaviours\Footing_Holding_Behaviour.class
+players\Football_Referee.class
